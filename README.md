@@ -14,4 +14,4 @@ One of the most exciting areas in all of data science right now is wearable comp
 The Data
 Data Zip File: UCI Machine Learning Repo
 
-Data Description: link
+Data Description: [link]((https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones))
